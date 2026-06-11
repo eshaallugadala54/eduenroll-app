@@ -230,7 +230,7 @@ const LoginScreen: React.FC = () => {
 
         {/* Footer */}
         <p className="text-center text-xs text-gray-400 mt-6">
-          EduEnroll &copy; 2024 | Student Enrollment Portal
+          EduEnroll &copy; 2026 | Student Enrollment Portal
         </p>
       </div>
     </div>
