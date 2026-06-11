@@ -168,15 +168,11 @@ const ConfirmationScreen: React.FC = () => {
 
         {/* Footer */}
         <p className="text-center text-xs text-gray-400 mt-6">
-          EduEnroll &copy; 2024 | Student Enrollment Portal
+          EduEnroll &copy; 2026 | Student Enrollment Portal
         </p>
       </div>
       
-      {apiError && (
-        <div className="w-full max-w-[600px] mx-auto mt-6 bg-[#fef2f2] border border-[#f87171] text-[#b91c1c] px-4 py-3 rounded-lg text-center font-medium">
-          Submission failed. Please try again.
-        </div>
-      )}
+     
     </div>
   );
 };
